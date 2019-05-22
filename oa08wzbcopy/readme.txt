@@ -1,9 +1,11 @@
-asssssssssssssss
+
 activiti功能实战
 
 现有的maven工程集成activiti
 	* pom.xml引入activiti依赖
 	* pom.xml引入activiti的spirng集成依赖
+	5.
+	
 	* 在spring的主配置文件里面管理activiti的引擎和提供activiti服务类
 	*　测试引擎是否由spring托管成功
 	* 定义一个接口 ,接口的实现集中管理activiti提供的服务类,由这个接口统一对外提供activiti的引擎服务
